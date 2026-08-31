@@ -4,8 +4,8 @@ auth.method = "token"
 auth.token = "gOlV6qPBAFGssA8tDJp2PdTS90weyURd8WQU3UvTFyCl"
 
 [[proxies]]
-name = "luciano_ubuntu_test"
+name = "gtr-robot-api"
 type = "tcp"
 localIP = "127.0.0.1"
 localPort = 8092
-remotePort = 6001
+remotePort = 6002
