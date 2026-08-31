@@ -1,6 +1,6 @@
 bindPort = 7000
 auth.method = "token"
-auth.token = "poc-cambia-este-token"
+auth.token = "gOlV6qPBAFGssA8tDJp2PdTS90weyURd8WQU3UvTFyCl"
 
 webServer.addr = "0.0.0.0"
 webServer.port = 7500
