@@ -2,7 +2,7 @@ bindPort = 7000
 auth.method = "token"
 auth.token = "poc-cambia-este-token"
 
-webServer.addr = "0.0.0.0"        # <-- cambiá esto
+webServer.addr = "0.0.0.0"
 webServer.port = 7500
 webServer.user = "admin"
 webServer.password = "password1@"
