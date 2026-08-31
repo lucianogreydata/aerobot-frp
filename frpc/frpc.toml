@@ -1,4 +1,4 @@
-serverAddr = "52.60.62.23"
+serverAddr = "frps.aerobot.haraldsson.xyz"
 serverPort = 7000
 auth.method = "token"
 auth.token = "gOlV6qPBAFGssA8tDJp2PdTS90weyURd8WQU3UvTFyCl"
@@ -7,5 +7,5 @@ auth.token = "gOlV6qPBAFGssA8tDJp2PdTS90weyURd8WQU3UvTFyCl"
 name = "luciano_ubuntu_test"
 type = "tcp"
 localIP = "127.0.0.1"
-localPort = 1200
-remotePort = 1200
+localPort = 8092
+remotePort = 6001
