@@ -1,0 +1,10 @@
+serverAddr = "IP_PUBLICA_DEL_EC2"
+serverPort = 7000
+auth.token = "poc-cambia-este-token"
+
+[[proxies]]
+name = "robot"
+type = "tcp"
+localIP = "127.0.0.1"
+localPort = 8000      # puerto del server HTTP/WebSocket del robot
+remotePort = 8080     # puerto que queda accesible en el EC2
