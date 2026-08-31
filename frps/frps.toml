@@ -2,6 +2,10 @@ bindPort = 7000
 auth.method = "token"
 auth.token = "gOlV6qPBAFGssA8tDJp2PdTS90weyURd8WQU3UvTFyCl"
 
+allowPorts = [
+  { start = 6001, end = 6011 },
+]
+
 webServer.addr = "0.0.0.0"
 webServer.port = 7500
 webServer.user = "admin"
